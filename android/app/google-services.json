@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "243206951446",
+    "firebase_url": "https://cobalagi-dulu.firebaseio.com",
+    "project_id": "cobalagi-dulu",
+    "storage_bucket": "cobalagi-dulu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243206951446:android:240a8d5e11344c5bf81b37",
+        "android_client_info": {
+          "package_name": "cobadulu.cobaaaa_dulu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "243206951446-866iaum4cbva29hbab2oriopev7vo1a7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cobadulu.cobaaaa_dulu",
+            "certificate_hash": "184d0e68475d243a74babb99a5ef489e3f30e798"
+          }
+        },
+        {
+          "client_id": "243206951446-8iqgpu725q679tp0hufi56ktu3l8s53u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr4xQ5dB8oztZ19SvSsZYUQxyKyWVpGHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "243206951446-8iqgpu725q679tp0hufi56ktu3l8s53u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

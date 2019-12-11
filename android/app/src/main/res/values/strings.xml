@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RameGakYa?</string>
+    <string name="facebook_app_id">581149159308828</string>
+    <string name="fb_login_protocol_scheme">fb581149159308828</string>
+</resources>
