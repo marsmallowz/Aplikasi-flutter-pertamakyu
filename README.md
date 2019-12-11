@@ -1,5 +1,8 @@
 # cobaaaa_dulu
 
+<img src="![Capture](https://user-images.githubusercontent.com/44994781/70669537-47ed3480-1ca9-11ea-9e45-c151d5a7c847.PNG)" width="100" height="100">
+
+
 A new Flutter application.
 
 ## Getting Started
