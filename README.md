@@ -1,6 +1,6 @@
 # cobaaaa_dulu
 
-<img src="screenshoot/Screenshot_1576104472.png" width="100" height="100">
+<img src="screenshoot/Screenshot_1576104472.png">
 
 
 A new Flutter application.
